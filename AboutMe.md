@@ -1,4 +1,5 @@
 # Ricardo Bachmann
 *I am a new coding student.* ~~My birthcity is Haan in NRW.~~
-Wenn Sie ein Tier sein könnten, welches wäre es? ###Oktopus### 
+Wenn Sie ein Tier sein könnten, welches wäre es? 
+### Oktopus ### 
 reach out @[Twitter](https://twitter.com/rcrdbchmnn)
