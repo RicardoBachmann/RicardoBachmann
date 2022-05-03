@@ -4,11 +4,11 @@
 
 ## non-linear narratives
 
-+
-visual investigations
-+
-critical cartography 
-+
-osint-research
+
+- visual investigations
+
+- critical cartography 
+
+- osint-research
 
 reach out @[Twitter](https://twitter.com/rcrdbchmnn)
