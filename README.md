@@ -1,11 +1,9 @@
 # Ricardo Bachmann
-multidisciplinary artist and designer working in the fields of:
-- visual investigations
-- critical cartography 
-- osint-research
+Multidisciplinary Artist and Designer working in the fields of: Visual investigations + Critical Cartography + Osint-Research
+
 
 *i am a new coding student.* 
 
-reach out @[Twitter](https://twitter.com/rcrdbchmnn)
+
 
 
